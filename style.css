@@ -21,3 +21,7 @@
 border-bottom: 3px solid  rgb(75, 123, 142);
 max-width: 8vw;
 }
+.skyscraperbg{
+    background-image: url(https://media.architecturaldigest.com/photos/5d76c0d36c05d1000ae1dff4/master/w_1280%2Cc_limit/Al%2520Hamra%2520Tower.jpg);
+    background-position: center;
+}
