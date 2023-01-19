@@ -1,0 +1,23 @@
+.backround-stock{
+    background: url(https://as1.ftcdn.net/v2/jpg/04/70/02/54/1000_F_470025494_5AZ8vymDqYjjHepzK2lqcJXDupxbq03L.jpg), no-repeat;
+    background-size: cover;
+}
+
+.header-lorem-border{
+    border-left: 3px solid rgb(75, 123, 142);
+    padding: 1em;
+}
+
+.dark-blue-bg{
+   background-color: #1c2e45;
+}
+
+.main-stock{
+    height: 50vh;
+    width: 40vw;
+}
+
+.second-header{
+border-bottom: 3px solid  rgb(75, 123, 142);
+max-width: 8vw;
+}
